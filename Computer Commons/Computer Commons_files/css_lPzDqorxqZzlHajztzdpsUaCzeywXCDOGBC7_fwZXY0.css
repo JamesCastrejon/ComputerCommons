@@ -9383,6 +9383,16 @@ h1.page-header {
 	background-image: url(https://cdn.maricopa.edu/foi/visual-and-performing-arts/college-hero.jpg);
 }
 
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  color: white;
+  background-color: rgba(210,163,106,.9);
+  padding:.2em .4em;
+  // Change this to purple with gold background?
+}
+
 .navbar.container-fluid {
 	padding-right: 0;
 	padding-left: 0;
